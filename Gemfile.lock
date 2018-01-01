@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dotenv (2.2.1)
+    event_emitter (0.2.6)
+    json (1.8.6)
+    websocket (1.2.5)
+    websocket-client-simple (0.3.0)
+      event_emitter
+      websocket
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dotenv (~> 2.2, >= 2.2.1)
+  json (~> 1.8, >= 1.8.3)
+  websocket-client-simple (~> 0.3.0)
+
+BUNDLED WITH
+   1.14.6
